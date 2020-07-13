@@ -4,7 +4,8 @@ I am a Software Engineer, speaker, master student in Artificial Intelligence and
 
 How to reach me: [contato@carlavieira.dev](mailto:contato@carlavieira.dev) or [twitter/carlaprvieira](https://twitter.com/carlaprvieira/)
 
-<img src="https://i.gifer.com/17xo.gif">
+
+<img src="https://i.imgur.com/MjeqeUP.gif" width="120">
 
 <!--
 **carlaprv/carlaprv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
