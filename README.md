@@ -2,7 +2,7 @@
 
 <img src="https://github.com/carlaprv/carlaprv/blob/master/cover_carla.png">
 
-I'm a Software Engineer who is passionate about making open-source morE, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python and Tensorflow! 
+I'm a Software Engineer who is passionate about making open-source, creating technology to elevate people and building community. Some technologies I enjoy working with include Python and Tensorflow! 
 
 Current, I'm a MSc student in Artificial Intelligence and my research is about the unconscious bias in Artificial Intelligence and Explainable Artificial Intelligence. 
 
