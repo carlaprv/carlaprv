@@ -1,4 +1,4 @@
-## Hi there! I'm Carla 👩🏽‍💻
+# Hi there! I'm Carla 👩🏽‍💻
 
 <img src="https://github.com/carlaprv/carlaprv/blob/master/cover_carla.png">
 
@@ -10,7 +10,7 @@ I recently was selected to be an and Google Developer Expert for Machine Learnin
 
 My interest in building community led me to participate as co-organizer at [perifaCode](https://perifacode.com/), a community for minorities groups in technology.
 
-### Find me around the web 🌎: 
+## Find me around the web 🌎: 
 
 * Learning about Artificial Intelligence on [Youtube](youtube.com/eaicarla) or [eaicarla.com.br](eaicarla.com.br/) 📹 ✍🏾
 * Sharing updates on [LinkedIn](https://www.linkedin.com/in/carlaprv/) | [Twitter](https://twitter.com/carlaprvieira/) | [Instagram](https://www.instagram.com/carlaprvieira/) 
