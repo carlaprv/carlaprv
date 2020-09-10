@@ -15,8 +15,6 @@ My interest in building community led me to participate as co-organizer at [peri
 * Contacting me by email [contato@carlavieira.dev](mailto:contato@carlavieira.dev)
 
 If you would like to discuss things and support my work, you can join my [Apoia.se](apoia.se/eaicarla) or [Picpay](https://picpay.me/eaicarla).
-<img src="https://i.imgur.com/MjeqeUP.gif" width="120">
-
 
 <!--
 **carlaprv/carlaprv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
