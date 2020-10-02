@@ -12,11 +12,11 @@ My interest in building community led me to participate as co-organizer at [peri
 
 ## Find me around the web 🌎: 
 
-* Learning about Artificial Intelligence on [Youtube](youtube.com/eaicarla) or [eaicarla.com.br](eaicarla.com.br/) 📹 ✍🏾
+* Learning about Artificial Intelligence on [Youtube](https://www.youtube.com/eaicarla) or [eaicarla.com.br](https://eaicarla.com.br/) 📹 ✍🏾
 * Sharing updates on [LinkedIn](https://www.linkedin.com/in/carlaprv/) | [Twitter](https://twitter.com/carlaprvieira/) | [Instagram](https://www.instagram.com/carlaprvieira/) 
 * Contacting me by email [contato@carlavieira.dev](mailto:contato@carlavieira.dev)
 
-If you would like to discuss things and support my work, you can join my [Apoia.se](apoia.se/eaicarla) or [Picpay](https://picpay.me/eaicarla).
+If you would like to discuss things and support my work, you can join my [Apoia.se](https://apoia.se/eaicarla) or [Picpay](https://picpay.me/eaicarla).
 
 <!--
 **carlaprv/carlaprv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
